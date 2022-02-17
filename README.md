@@ -2,5 +2,5 @@
 
 Таблица со статистикой по каждому из 3 образцов:
 
-<img width="314" alt="Снимок экрана 2022-02-17 в 23 45 01" src="https://user-images.githubusercontent.com/60537367/154567703-8f09473a-2e0e-4e82-ac17-6464957fa990.png">
+<img width="321" alt="Снимок экрана 2022-02-17 в 23 48 16" src="https://user-images.githubusercontent.com/60537367/154568219-cf65c6cc-5c98-4f4f-b747-8e6ec3dae423.png">
 
