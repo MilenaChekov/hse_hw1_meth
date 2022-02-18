@@ -2,9 +2,9 @@
 
 отчет fastqc
 
-<img width="851" alt="Снимок экрана 2022-02-18 в 13 31 56" src="https://user-images.githubusercontent.com/60537367/154665920-d3b3eae1-cdd9-4232-85d2-a9ff7a6c17b4.png">
+<img width="851" alt="Снимок экрана 2022-02-18 в 13 31 56" src="https://user-images.githubusercontent.com/60537367/154665920-d3b3eae1-cdd9-4232-85d2-a9ff7a6c17b4.png"> <img width="852" alt="Снимок экрана 2022-02-18 в 13 32 23" src="https://user-images.githubusercontent.com/60537367/154666318-12724ce1-e40a-45b2-a49f-68fd71b9fe4b.png">
 
-<img width="852" alt="Снимок экрана 2022-02-18 в 13 32 23" src="https://user-images.githubusercontent.com/60537367/154666318-12724ce1-e40a-45b2-a49f-68fd71b9fe4b.png">
+Можно заметить, что слишком много Т, и очень мало С, что является результатом бисульфитной конверсии. 
 
 Таблица со статистикой по каждому из 3 образцов:
 
