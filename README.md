@@ -2,7 +2,9 @@
 
 отчет fastqc
 
-<img width="851" alt="Снимок экрана 2022-02-18 в 13 31 56" src="https://user-images.githubusercontent.com/60537367/154665920-d3b3eae1-cdd9-4232-85d2-a9ff7a6c17b4.png"> <img width="852" alt="Снимок экрана 2022-02-18 в 13 32 23" src="https://user-images.githubusercontent.com/60537367/154666318-12724ce1-e40a-45b2-a49f-68fd71b9fe4b.png">
+<img width="851" alt="Снимок экрана 2022-02-18 в 13 31 56" src="https://user-images.githubusercontent.com/60537367/154665920-d3b3eae1-cdd9-4232-85d2-a9ff7a6c17b4.png"> 
+
+<img width="852" alt="Снимок экрана 2022-02-18 в 13 32 23" src="https://user-images.githubusercontent.com/60537367/154666318-12724ce1-e40a-45b2-a49f-68fd71b9fe4b.png">
 
 Можно заметить, что слишком много Т, и очень мало С, что является результатом бисульфитной конверсии. 
 
@@ -24,6 +26,8 @@
 
 <img width="1200" alt="Снимок экрана 2022-02-18 в 13 42 22" src="https://user-images.githubusercontent.com/60537367/154667558-9ab67445-0646-4e9d-be02-c13bea888569.png">
 
+наиболее выраженное метилирование наблюдается у образца эпибласта
+
 Гистограмма с общим уровнем метилирования для каждого из образца
 
 ![8cell](https://user-images.githubusercontent.com/60537367/154668083-e36e608f-6276-4e6b-9775-58495ad27fb9.png)
@@ -31,6 +35,8 @@
 ![icm](https://user-images.githubusercontent.com/60537367/154668106-6ebbeb66-1d9c-4a31-bf93-2afdbf74113d.png)
 
 ![epiblast](https://user-images.githubusercontent.com/60537367/154668131-6dfe969b-f351-4f05-93c2-002da5bd9fb2.png)
+
+Можно заметить, что эпибласт самый метилированный образец, как уже было заметно ранее
 
 Рисунки с уровнем метилирования и покрытием на любом регионе (лучше больше 10 000 нуклеотидов) для каждого образца 
 
