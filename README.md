@@ -40,7 +40,7 @@
 
 Рисунки с уровнем метилирования и покрытием на любом регионе (лучше больше 10 000 нуклеотидов) для каждого образца 
 
-![image_cov (1)](https://user-images.githubusercontent.com/60537367/154668288-6236e8e1-621c-41da-b5e2-3188ac10584b.png)
+![image_cov (1)](https://user-images.githubusercontent.com/60537367/154668288-6236e8e1-621c-41da-b5e2-3188ac10584b.png) 
 
 
 
